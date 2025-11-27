@@ -1,0 +1,34 @@
+# Core deep learning framework
+tensorflow==2.13.0
+
+# Numerical computing
+numpy==1.23.5
+pandas==2.1.4
+
+# Visualization
+matplotlib==3.8.2
+
+# Image processing
+Pillow==9.5.0
+
+# Model evaluation
+scikit-learn==1.3.2
+
+# Jupyter environment
+jupyter==1.0.0
+notebook==7.0.6
+
+# Progress bars (optional but useful)
+tqdm==4.66.1
+
+# JSON utilities (if needed)
+json5==0.9.14
+
+# Optional model saving helpers
+h5py==3.10.0
+
+# Bootstrap CI computations
+scipy==1.11.4
+
+# For reading/writing .npz, TensorFlow I/O
+tensorflow-io-gcs-filesystem==0.34.0
